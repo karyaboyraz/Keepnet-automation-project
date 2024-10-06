@@ -1,0 +1,8 @@
+# Login to Keepnet UI with 2FA
+* Open Base URL "https://test-ui.devkeepnet.com"
+* Write "usertest1@yopmail.com" to Element "Email address"
+* Click button "CONTINUE"
+* Write "Keepnet123." to Element "Password"
+* Click button "CONTINUE"
+* Enter 2FA Code
+* Click button "Continue"
